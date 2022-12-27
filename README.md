@@ -1,10 +1,4 @@
-  _____  _                 _                  _                       
- |  __ \| |               | |                (_)                      
- | |__) | |__   __ _ _ __ | |_ ___  _ __ ___  _ _ __ ___   __ _ _ __  
- |  ___/| '_ \ / _` | '_ \| __/ _ \| '_ ` _ \| | '_ ` _ \ / _` | '_ \ 
- | |    | | | | (_| | | | | || (_) | | | | | | | | | | | | (_| | | | |
- |_|    |_| |_|\__,_|_| |_|\__\___/|_| |_| |_|_|_| |_| |_|\__,_|_| |_|
-                                                                      
+![image](https://user-images.githubusercontent.com/119011920/209628796-51b9db7a-f421-44f2-8a7b-cdf86effbc1c.png)
                                                                                                                                       
 
 This tool made for educational purposes please use this tool for legal actions only.
